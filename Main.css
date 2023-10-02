@@ -1,0 +1,23 @@
+html{
+    background-color: lightgreen;
+}
+
+#LogoSpotify{
+    max-width: 15%;
+    margin-left: 43%;
+}
+
+#IndexText{
+    margin-left: 1%;
+    max-width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#IndexH1{
+    margin-left: 1%;
+    max-width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+}
